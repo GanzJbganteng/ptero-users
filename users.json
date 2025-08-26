@@ -1,4 +1,20 @@
 [
-  { "username": "risky", "password": "panel" },
-  { "username": "resellerlain", "password": "password123" }
+  {
+    "username": "rofiks",
+    "password": "pw",
+    "role": "owner",
+    "status": "active"
+  },
+  {
+    "username": "resellerganteng",
+    "password": "passreseller",
+    "role": "reseller",
+    "status": "active"
+  },
+  {
+    "username": "resellerkenaban",
+    "password": "passkenaban",
+    "role": "reseller",
+    "status": "banned"
+  }
 ]
