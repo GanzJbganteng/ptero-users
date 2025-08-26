@@ -8,5 +8,11 @@
     "username": "reseller1",
     "password": "passreseller1",
     "role": "reseller"
+  },
+  {
+    "username": "sniper",
+    "password": "p",
+    "role": "reseller",
+    "status": "active"
   }
 ]
