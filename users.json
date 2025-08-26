@@ -2,19 +2,11 @@
   {
     "username": "rofiks",
     "password": "pw",
-    "role": "owner",
-    "status": "active"
+    "role": "owner"
   },
   {
-    "username": "resellerganteng",
-    "password": "passreseller",
-    "role": "reseller",
-    "status": "active"
-  },
-  {
-    "username": "resellerkenaban",
-    "password": "passkenaban",
-    "role": "reseller",
-    "status": "banned"
+    "username": "reseller1",
+    "password": "passreseller1",
+    "role": "reseller"
   }
 ]
