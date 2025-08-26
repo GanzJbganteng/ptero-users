@@ -1,7 +1,4 @@
-{
-  "allowed_users": [
-    "p",
-    "usernamegithubreseller1",
-    "usernamegithubreseller2"
-  ]
-}
+[
+  { "username": "risky", "password": "panel" },
+  { "username": "resellerlain", "password": "password123" }
+]
