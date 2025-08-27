@@ -7,5 +7,14 @@
     "ptero_password": "gugut",
     "email": "gugut@yourdomain.com",
     "created_at": "2025-08-27T08:46:08.985Z"
+  },
+  {
+    "id": 977,
+    "ptero_user_id": 1093,
+    "owner_username": "sniper",
+    "ptero_username": "konyul",
+    "ptero_password": "koyul",
+    "email": "konyul@yourdomain.com",
+    "created_at": "2025-08-27T09:35:17.810Z"
   }
 ]
